@@ -36,9 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A brefe comedy or enterlude concernynge the temptacyon of our lorde and sauer Iesus Christ, by Satha
+
+1. Praefatio.
+
 #####Body#####
-A brefe comedy or enterlude concernynge the temptacyon of our lorde and sauer Iesus Christ, by Satha
+
+1. Incipit Comoedia.
+
 **Types of content**
 
   * There are 411 **verse** lines!
